@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-An end-to-end data analytics capstone analyzing **NYC TLC Yellow Taxi trip records** (10% monthly sample, ~383K trips across 2023). The project spans exploratory data analysis, interactive dashboard design, predictive modeling, and hyperparameter tuning — delivering actionable insights into taxi demand patterns, fare drivers, and trip characteristics across New York City.
+An end-to-end data analytics capstone, analyzing **NYC TLC Yellow Taxi trip records** (10% monthly sample, ~383K trips across 2023). The project spans exploratory data analysis, interactive dashboard design, predictive modeling, and hyperparameter tuning — delivering actionable insights into taxi demand patterns, fare drivers, and trip characteristics across New York City.
 
 ---
 
